@@ -1,0 +1,10 @@
+C:\Users\QUYNH\source\repos\vd web6\vd web6\bin\Debug\vd web6.exe.config
+C:\Users\QUYNH\source\repos\vd web6\vd web6\bin\Debug\vd web6.exe
+C:\Users\QUYNH\source\repos\vd web6\vd web6\bin\Debug\vd web6.pdb
+C:\Users\QUYNH\source\repos\vd web6\vd web6\obj\Debug\vd web6.csproj.AssemblyReference.cache
+C:\Users\QUYNH\source\repos\vd web6\vd web6\obj\Debug\vd_web6.Properties.Resources.resources
+C:\Users\QUYNH\source\repos\vd web6\vd web6\obj\Debug\vd web6.csproj.GenerateResource.cache
+C:\Users\QUYNH\source\repos\vd web6\vd web6\obj\Debug\vd web6.csproj.CoreCompileInputs.cache
+C:\Users\QUYNH\source\repos\vd web6\vd web6\obj\Debug\vd web6.exe
+C:\Users\QUYNH\source\repos\vd web6\vd web6\obj\Debug\vd web6.pdb
+C:\Users\QUYNH\source\repos\vd web6\vd web6\obj\Debug\vd_web6.frmlistboxs.resources
